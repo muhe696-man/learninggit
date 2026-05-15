@@ -1,1 +1,2 @@
 my first version control
+it alse can be pulled from remote to local 
